@@ -98,13 +98,13 @@ this is the content of the .editorconfig
 
 >root = true
 >
->[*]
->end_of_line = lf
->indent_style = space
->indent_size = 2
->charset = utf-8
->trim_trailing_whitespace = true
->insert_final_newline = true
+[*]
+end_of_line = lf
+indent_style = space
+indent_size = 2
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
 
 ## TypeScript
 this is the content of the tsconfig.json
