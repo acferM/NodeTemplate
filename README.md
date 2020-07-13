@@ -79,8 +79,8 @@ this is the content of the .eslintrc.json:
 and this is the .eslintignore content
 
 >/*.js
-node_modules
-dist
+>node_modules
+>dist
 
 ## Prettier
 this is the content of the prettier.config.js
@@ -95,15 +95,16 @@ module.exports = {
 
 ## EditorConfig
 this is the content of the .editorconfig
->root = true
 
-[*]
-end_of_line = lf
-indent_style = space
-indent_size = 2
-charset = utf-8
-trim_trailing_whitespace = true
-insert_final_newline = true
+>root = true
+>
+>[*]
+>end_of_line = lf
+>indent_style = space
+>indent_size = 2
+>charset = utf-8
+>trim_trailing_whitespace = true
+>insert_final_newline = true
 
 ## TypeScript
 this is the content of the tsconfig.json
