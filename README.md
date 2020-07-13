@@ -91,7 +91,7 @@ this is the content of the prettier.config.js
 module.exports = {
   singleQuote: true,
   trailingComma: 'all',
-	arrowParens: 'avoid',
+  arrowParens: 'avoid',
 }
 ```
 
