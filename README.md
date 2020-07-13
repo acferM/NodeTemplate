@@ -20,7 +20,7 @@ cd NodeTemplate
 yarn
 ```
 
-2. starting code on the files inside src/
+2. start code on the files inside src/
 
 3. to execute the in dev mode, on your terminal run:
 ```bash
