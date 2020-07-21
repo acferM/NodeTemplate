@@ -1,6 +1,6 @@
 # NodeJS Template
 
-## Ready to code
+## Ready to code 😃
 this project has:
 - tsconfig.json,
 - prettier.config.js,
@@ -10,7 +10,7 @@ this project has:
 
 all already configurated
 
-# How to use it
+# How to use it 😤
 all you have to do is:
 
 1. on your terminal clone this repository and acess it using:
@@ -32,7 +32,7 @@ yarn dev:server
 yarn build
 ```
 
-## Configs
+## Configs ⚙
 
 ### Eslint:
 this is the content of the .eslintrc.json:
@@ -184,3 +184,17 @@ this is the content of the tsconfig.json
   }
 }
 ```
+
+# Documentation 📄
+
+## [NodeJS](https://nodejs.org/en/docs/)
+
+## [Express.js](https://expressjs.com/)
+
+## [TypesScript](https://www.typescriptlang.org/docs/home.html)
+
+## [EditorConfig](https://editorconfig.org/#overview)
+
+## [Prettier](https://prettier.io/docs/en/index.html)
+
+## [Eslint](https://eslint.org/)
