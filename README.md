@@ -13,7 +13,7 @@ all already configurated
 # How to use it
 all you have to do is:
 
-1. on your terminal clone this repository using:
+1. on your terminal clone this repository and acess it using:
 ```bash
 git clone https://github.com/acferM/NodeTemplate.git
 cd NodeTemplate
